@@ -1,0 +1,20 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "Rodao Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pritam0044/RoadoAssignment.git"
+  },
+  "author": "Pritam Das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pritam0044/RoadoAssignment/issues"
+  },
+  "homepage": "https://github.com/Pritam0044/RoadoAssignment#readme",
+  "keywords": []
+}
